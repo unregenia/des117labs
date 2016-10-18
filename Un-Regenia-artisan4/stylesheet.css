@@ -1,0 +1,9 @@
+body {
+background: linear-gradient( black, white);
+}
+h1{color:white;letter-spacing:55px; text-align:center;font-size: 25px;}
+h2{color:#E08189;letter-spacing:3px;text-align: center;text-decoration: overline;}
+h3{letter-spacing:2px;text-align: center;}
+p.center{color:#D1D2D4;text-align: center;line-height:180%; font-family:verdana}
+.news{text-align: center;line-height: 180%;font-family:verdana}
+ul.square {list-style-type: square;color:#D1D2D4}
