@@ -1,0 +1,35 @@
+    body {
+        font-family:Sans-Serif;
+        line-height: 1.8em;
+        background: #333;
+        color: #444;
+    }
+    h1 {
+    font-size: 32px;
+    letter-spacing: 5px;
+    padding: 22px 22px 20px 10px;
+  text-align: center;
+font-family: serif;
+background: linear-gradient(to right, pink, white, lightblue); ;}
+
+h2{font-size:20px;
+font-style: italic;
+text-align: center;}
+
+h3{font-size:16px;
+text-decoration: underline;}
+
+    .page-wrapper {
+
+        width: 1000px;
+        margin: 20px auto;
+        background: #fff;}
+.summary{font-family:Sans-Serif;background-color: #f0f8ff;text-align: center;line-height: 10px}
+.preamble{ font-family:Sans-Serif;background-color: #fff0f5;}
+.explanation{font-family:Sans-Serif;background-color: #f0f8ff;}
+.participation{font-family:Sans-Serif;background-color: #fff0f5;}
+.benefits{font-family:Sans-Serif;background-color: #f0f8ff;}
+.requirements{font-family:Sans-Serif;background-color: #fff0f5;}
+.design-selection{font-family:Sans-Serif;background-color: #fff0f5;}
+.design-archives{font-family:Sans-Serif;background-color: #f0f8ff;}
+.zen-resources{font-family:Sans-Serif;background-color: #fff0f5;}
